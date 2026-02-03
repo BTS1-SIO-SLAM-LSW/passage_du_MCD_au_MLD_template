@@ -1,4 +1,4 @@
-Création de Schémaa Entité-Association (Méthode Merise) avec l'outil Looping 
+Création de Schéma Entité-Association (Méthode Merise) avec l'outil Looping 
 
 ## Objectif
 Ce modèle GitHub permet d'utiliser **Looping**, l'outil de modélisation **Merise**, directement depuis **GitHub Codespaces**, sans installation locale.  
