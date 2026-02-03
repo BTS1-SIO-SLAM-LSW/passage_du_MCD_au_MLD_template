@@ -6,7 +6,7 @@ Il est conçu pour les cours de **BTS SIO SLAM** et toute formation en **concept
 
 ## Utilisation rapide
 1. Ouvre ce dépôt dans **GitHub Codespaces**.
-2. Ouvre le port `6080` et clique sur **Open in Browser**.
+2. Ouvre le port `80` et clique sur **Open in Browser**.
 3. Une interface graphique LXDE s’affiche.
 4. Double-clique sur **“Looping (Merise)”** pour lancer le logiciel.
 5. Crée ton **MCD**, **MLD**, et **script SQL** directement depuis le cloud !
